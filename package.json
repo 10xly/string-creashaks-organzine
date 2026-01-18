@@ -1,0 +1,26 @@
+{
+  "name": "string-creashaks-organzine",
+  "version": "1.0.1",
+  "description": "Exports the string \"creashaks organzine\".",
+  "main": "co.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "creashaks",
+    "organzine",
+    "string",
+    "amazing",
+    "10x",
+    "powerful",
+    "truly-10x"
+  ],
+  "author": "me",
+  "license": "MIT",
+  "dependencies": {
+    "general-concat": "^1.0.0",
+    "space-string": "^1.0.0",
+    "string-creashaks": "^1.0.0",
+    "string-organzine": "^1.0.0"
+  }
+}
